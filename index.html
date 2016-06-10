@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>AngularJs TC Kimlik No Doğrulama</title>
+    <meta name="author" content="Batuhan Kök">
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.6/angular.min.js"></script>
+    <script type="text/javascript" src="custom.js"></script>
+    <link href="style.css" rel="stylesheet">
+</head>
+
+<body>
+
+    <div class="content" ng-app="app">
+        <div ng-controller="TCKN">
+            <input type="number" tckno-dogrulama ng-model="TCKimlikNo.text" placeholder="TC Kimlik Numarası" required>
+
+            <div ng-show="TCKimlikNo.status" class="message">
+                {{TCKimlikNo.message}}
+            </div>
+        </div>
+    </div>
+
+</body>
+
+</html>

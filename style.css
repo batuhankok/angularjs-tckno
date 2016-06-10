@@ -1,0 +1,41 @@
+/*
+    Coded by Batuhan Kök
+    URL: http://www.batuhan.me
+*/
+
+@import url(https://fonts.googleapis.com/css?family=PT+Sans&subset=latin,latin-ext);
+
+* {
+    outline: 0;
+}
+
+body {
+    font-family: 'PT Sans', sans-serif;
+    font-size: 15px;
+    width: 400px;
+    background-color: #f9f9f9;
+}
+
+.content {
+    margin: 0 auto;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 2px;
+    background-color: #ffffff;
+}
+
+.content input[type="number"] {
+    border: 1px solid #ccc;
+    font-family: 'PT Sans', sans-serif;
+    font-size: 15px;
+    padding: 10px;
+    border-radius: 2px;
+    width: 94%;
+}
+
+.message {
+    color: #e8350d;
+    border-top: 1px solid #e8350d;
+    margin-top: 10px;
+    padding-top: 10px
+}
