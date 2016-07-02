@@ -1,7 +1,7 @@
 # AngularJS ile TC Kimlik Numarası Kontrolü
 AngularJS ile **TC Kimlik Numarası**' kontrolü (doğrulaması) yapan örnek uygulama.
 
-- AngularJS çalışma prensibini anlamanız ve kendinizi geliştirmeniz açısından oldukça geliştirici bir örnek olduğunu düşünüyorum.
+- AngularJS çalışma prensibini anlamanız ve kendinizi geliştirmeniz için güzel bir örnek.
 - Gördüğünüz eksikleri yada istediğiniz düzenlemeleri bana bildirebilirsiniz.
 - Sistem TC Kimlik Numarası Algoritması üzerinden numaraları doğruluyor.
 - Herhangi bir veritabanından yada farklı bir kanaldan doğrulama yapılmamaktadır.
