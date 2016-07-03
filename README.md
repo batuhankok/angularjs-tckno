@@ -7,6 +7,8 @@ AngularJS ile **TC Kimlik Numarası**' kontrolü (doğrulaması) yapan örnek uy
 - Herhangi bir veritabanından yada farklı bir kanaldan doğrulama yapılmamaktadır.
 - Yalnızca HTML, CSS ve Javascript (AngularJS) kullanılarak geliştirildi.
 
+**Screenshot:**
+![4 ayrı uyarı birleştirildi.](https://github.com/batuhankok/angularjs-tckno/blob/master/ss1.jpg)
 
 <hr />
 **Batuhan KÖK**
