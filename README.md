@@ -8,7 +8,8 @@ AngularJS ile **TC Kimlik Numarası**' kontrolü (doğrulaması) yapan örnek uy
 - Yalnızca HTML, CSS ve Javascript (AngularJS) kullanılarak geliştirildi.
 
 **Screenshot:**
-<img src="https://github.com/batuhankok/angularjs-tckno/blob/master/ss1.jpg" width="600" title="4 ayrı screenshot birleşimi">
+
+<img src="https://github.com/batuhankok/angularjs-tckno/blob/master/ss1.jpg" width="700" title="4 ayrı screenshot birleşimi">
 
 <hr />
 **Batuhan KÖK**
